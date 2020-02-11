@@ -10,6 +10,7 @@ html{
 header{
     height: 100vh;
     background-image:url(img/background2.png);
+    background-color:pink;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
