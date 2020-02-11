@@ -31,7 +31,7 @@ btn.onclick = function() {
     }
     http.send(params);
     load.style.display = "inline";
-    setTimeout(()=>{modal.style.display = "block"; },3000);
+    setTimeout(()=>{modal.style.display = "block"; },4000);
   }
   else{
     error.style.display = "block";
